@@ -9,6 +9,11 @@ Whatever you prefer (e.g. `conda` or `venv`)
 conda create -n envname python=x.x anaconda
 ```
 
+### Activate the virtual environment
+```console
+conda activate envname
+```
+
 ### Install PyTorch and dependencies
 
 For Installation of PyTorch see [official website](https://pytorch.org/).
